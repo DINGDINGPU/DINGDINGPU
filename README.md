@@ -19,3 +19,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Would+you+like+to+join+me%3F)](https://git.io/typing-svg)
 
 
+</br>
+</br>
