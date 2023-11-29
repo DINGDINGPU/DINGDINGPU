@@ -7,12 +7,11 @@
 
 
 - 🌱 I’m currently learning ... Python, Data Engineering
-- 👯 I’m looking to collaborate on ... 프로젝트
-- 🤔 I’m looking for help with ... 
+
+- 📫 How to reach me: ... 
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ... 이메일
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ... 특장점
+
 
 
 
