@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ... Python, Data Engineering
 
-- 📫 How to reach me: ... 
+- 📫 How to reach me: ... ozumiqq@gmail.com
 
 - 💬 Ask me about ...
 
